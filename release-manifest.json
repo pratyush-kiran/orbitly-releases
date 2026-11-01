@@ -1,0 +1,10 @@
+﻿{
+    "installer":  "OrbitlySetup-0.6.0.exe",
+    "version":  "0.6.0",
+    "ffmpegSha256":  "32cb148c32e3501225e37556421867ea7d7dd6edddf430bc29935c55c3cfcdec",
+    "signed":  false,
+    "architecture":  "x64",
+    "minimumWindowsBuild":  19045,
+    "sizeBytes":  77740746,
+    "sha256":  "417c8115b70f51cda34180c61797a400e26db280fddb7fc99bcebf047aa8c28b"
+}
